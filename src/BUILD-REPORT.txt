@@ -1,0 +1,20 @@
+Limits Mini 0.2.0
+Build environment: Linux x86_64, Go 1.23.2.
+Target: Windows amd64, CGO disabled.
+
+Checks:
+- 47 automated test/subtest PASS
+- go test -race -count=1 . : PASS
+- go vet ./... : PASS
+- GOOS=windows GOARCH=amd64 go vet ./... : PASS
+- Windows cross-build: PASS
+- PE32+ x86-64 GUI: PASS
+- Embedded icon + asInvoker / PerMonitorV2 manifest: PASS
+
+SHA-256:
+f0f683a8921a485362712e552dbaaa3dd3d11a72c565964bc9bb934ee59bcaa3  LimitsMini.exe
+
+Not executed in this build environment:
+- actual Windows desktop/tray rendering
+- installer UI on Windows
+- real authenticated Claude/OpenAI requests
