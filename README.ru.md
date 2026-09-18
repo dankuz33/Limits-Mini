@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" alt="Limits Mini" width="1200">
+</p>
+
 # Limits Mini
 
 [English](README.md) · **Русский**
@@ -7,7 +11,7 @@
 Два сервиса, две строки, только нужные цифры. Limits Mini показывает использование лимитов на рабочем столе и в системном трее, чтобы не приходилось постоянно открывать страницы аккаунтов.
 
 <p align="left">
-  <img src="docs/images/widget.png" alt="Limits Mini: Claude 24/3%, Codex 100%" width="189">
+  <img src="widget.png" alt="Limits Mini: Claude 24/3%, Codex 100%" width="189">
 </p>
 
 Windows 10/11 x64 · Версия 0.2.0 · Go + Win32
