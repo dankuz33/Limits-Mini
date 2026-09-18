@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/cover.png" alt="Limits Mini" width="1200">
+</p>
+
 # Limits Mini
 
 **English** · [Русский](README.ru.md)
