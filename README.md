@@ -1,6 +1,3 @@
-# Limits-Mini
-Limits Mini - Codex &amp; Claud widget for Windows 10/11
-
 # Limits Mini
 
 **English** · [Русский](README.ru.md)
