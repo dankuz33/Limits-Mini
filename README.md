@@ -11,7 +11,7 @@
 Two services, two rows, just the numbers you need. Limits Mini displays usage limits on your desktop and in the system tray, so you do not have to keep opening account pages.
 
 <p align="left">
-  <img src="docs/images/widget.png" alt="Limits Mini: Claude 24/3%, Codex 100%" width="189">
+  <img src="widget.png" alt="Limits Mini: Claude 24/3%, Codex 100%" width="189">
 </p>
 
 Windows 10/11 x64 · Go + Win32
